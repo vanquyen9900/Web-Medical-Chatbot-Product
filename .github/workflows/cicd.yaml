@@ -1,5 +1,5 @@
 name: Deploy Application Docker Image to EC2 instance
-#a
+
 on:
   push:
     branches: [main]
